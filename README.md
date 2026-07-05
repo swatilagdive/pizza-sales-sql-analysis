@@ -53,6 +53,8 @@ The project uses four tables:
 
 ✔ Top 3 Revenue Generating Pizzas in Each Category
 
+############ screenshots ############
+
 
 <img width="795" height="732" alt="image" src="https://github.com/user-attachments/assets/4df8cb71-5f98-45ca-9a40-68ce4981d0b3" />
 
